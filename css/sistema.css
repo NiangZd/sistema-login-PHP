@@ -1,0 +1,55 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, rgb(20, 147, 220), rgb(17, 54, 71));
+    text-align: center;
+    color: white;
+}
+
+.parag-nav{
+    margin: 0px;
+}
+
+.button-nav-vg{
+    text-decoration: none;
+    border: none;
+    background-color: red;
+    color: #fff;
+    margin-left: 87%;
+    padding: 5px 14px;
+    border-radius: 10px;
+}
+
+.button-nav-vg:hover{
+    background-color: #8d0000;
+    text-decoration: none;
+    color: white;
+}
+
+.bg-light{
+    background-color: rgb(0, 40, 80) !important;
+}
+
+.h1-sis{
+    margin: 20px;
+}
+
+.table-bg{
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+}
+
+.button-chat{
+    text-decoration: none;
+    border: none;
+    background-color: #5e0075;
+    color: #fff;
+    margin-top: 30px;
+    padding: 10px 14px;
+    border-radius: 10px;
+}
+
+.button-chat:hover{
+    background-color: #32003f;
+    text-decoration: none;
+    color: white;
+}
